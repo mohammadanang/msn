@@ -13,8 +13,9 @@ Step to run:
 ```
 
 Send request to test the action using **POST** method.
-Hit this url: */api/v1/process*
+Hit this url: */api/v1/process*.
 The request body contain parameter:
-| Key    | Value           |
-| ------ | --------------- |
-| "data" | "random string" |
+
+Key | Value
+--- | ---
+"data" | "random string"
