@@ -1,6 +1,6 @@
 ## Asynchronous Microservices with RabbitMQ
 
-#### Setup
+### Setup
 
 Step to run:
 ```javascript
@@ -12,9 +12,9 @@ Step to run:
  - node index.js
 ```
 
-Send request to test the action using **POST** method.
-Hit this url: */api/v1/process*.
-The request body contain parameter:
+Send request to test the action using **POST** method. 
+Hit this url: */api/v1/process*. 
+The request body contain parameter: 
 
 Key | Value
 --- | ---
